@@ -1,0 +1,5 @@
+gwpy
+pycbc
+gwosc
+ligo.skymap
+matplotlib
